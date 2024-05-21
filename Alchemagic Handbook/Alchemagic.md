@@ -2,7 +2,7 @@
 
 The elemental composition and nature of Saturn has resulted in a greatly reduced the difficulty and complexity of the arcane arts for Saturn's population, with individuals incapable of magic manipulation being a slight minority within typical Satersian communities.
 
-Referring to the accepted [[Elemental Chart]] (WIP, to be adjusted), it becomes clear that the Satersian inclination of magic is strongly related to it's "natural" environment of air, fire, and it's conceptual alignment with chaos. 
+Referring to the accepted [Elemental Chart](Elemental%20Chart.md) (WIP, to be adjusted), it becomes clear that the Satersian inclination of magic is strongly related to it's "natural" environment of air, fire, and it's conceptual alignment with chaos. 
 
 The natural aptitude for magic in the world's population, in addition to a lack of ore/manufactured resources has resulted in a general decrease in understanding of theory and instrumentation outside of specialized communities with access to powerful, but ancient and aging materials and constructs. While many a powerful sorcerer may exist, wizards, arcanists, and practiced theorymen are very few.
 
