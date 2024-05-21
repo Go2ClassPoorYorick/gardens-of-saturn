@@ -1,0 +1,3 @@
+Massive Air and Fire elementals capable of expending massive amounts of [[Alchemagic|Alchemagical]] essence to propel land masses through Saturn's skies. This process doesn't so much consume as transform, as concentrated energy from the Alchemagical Sea below is converted into more usable, chaotic energies above. This process, nicknamed "Filtering" is responsible for protecting life on traveling cities from being melted in alchemagical currents or succumbing to [[Alchemagical Sickness]].
+
+Eidolons are considered god and patrons of Eidolonic cities, and as such most cultures consider interference, study, or attempted communication with Eidolons to be blasphemous. Despite this, all known Eidolons are thought to be ancient Air or Fire elementals.
